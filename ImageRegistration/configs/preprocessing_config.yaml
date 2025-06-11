@@ -1,0 +1,45 @@
+# configs/preprocessing_config.yaml
+"""
+Configuration for preprocessing pipeline
+"""
+preprocessing:
+  # Intensity standardization settings
+  standardization:
+    t2w:
+      method: "nyul"  # Options: nyul, zscore
+      landmarks_percentage: [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+      standard_scale: [0, 100]
+    adc:
+      method: "zscore"
+      use_robust_statistics: true
+  
+  # Registration settings
+  registration:
+    # Type hierarchy: try rigid first, then affine, then bspline
+    type_hierarchy: ["rigid", "affine", "bspline"]
+    
+    # Common settings
+    metric: "AdvancedMattesMutualInformation"
+    optimizer: "AdaptiveStochasticGradientDescent"
+    number_of_resolutions: 3
+    
+    # Type-specific settings
+    rigid:
+      maximum_iterations: 500
+      
+    affine:
+      maximum_iterations: 500
+      
+    bspline:
+      maximum_iterations: 1000
+      grid_spacing_schedule: [6.0, 4.0, 2.0]
+      
+  # ROI extraction settings
+  roi_extraction:
+    padding_mm: 15  # Padding around prostate in mm
+    minimum_size_mm: [50, 50, 30]  # Minimum ROI size
+    
+  # Segmentation settings
+  segmentation:
+    model_path: null  # Path to trained model (if available)
+    use_deep_learning: false  # Use DL model if available

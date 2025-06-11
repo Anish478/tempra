@@ -1,0 +1,64 @@
+// ********** parameter file for ASGD experiment
+// ********** Image Types
+
+(FixedInternalImagePixelType "float")
+(FixedImageDimension 3)
+(MovingInternalImagePixelType "float")
+(MovingImageDimension 3)
+
+// ********** Components
+
+(Registration "MultiResolutionRegistration")
+(FixedImagePyramid "FixedSmoothingImagePyramid")
+(MovingImagePyramid "MovingSmoothingImagePyramid")
+(Interpolator "BSplineInterpolator")
+(Metric "AdvancedMattesMutualInformation")
+(Optimizer "AdaptiveStochasticGradientDescent")
+(ResampleInterpolator "FinalBSplineInterpolator")
+(Resampler "DefaultResampler")
+(Transform "SimilarityTransform")
+
+// ********** Pyramid
+(NumberOfResolutions 3)
+(ImagePyramidSchedule 4 4 4 2 2 2 1 1 1)
+
+// ********** Transform
+(AutomaticTransformInitialization "true")
+(AutomaticTransformInitializationMethod "CenterOfGravity")
+(AutomaticScalesEstimation "true")
+(HowToCombineTransforms "Compose")
+
+// ********** Optimizer
+(MaximumNumberOfIterations 500)
+(AutomaticParameterEstimation "true")
+(UseAdaptiveStepSizes "true")
+(ASGDParameterEstimationMethod "Original")
+
+// ********** Metric
+(NumberOfHistogramBins 32)
+(FixedLimitRangeRatio 0.0)
+(MovingLimitRangeRatio 0.0)
+(FixedKernelBSplineOrder 1)
+(MovingKernelBSplineOrder 3)
+(UseFastAndLowMemoryVersion "true")
+
+// ********** Several
+(WriteTransformParametersEachIteration "false")
+(WriteTransformParametersEachResolution "false")
+(WriteResultImageAfterEachResolution "false")  
+(WritePyramidImagesAfterEachResolution "false")
+(WriteResultImage "true")
+(ShowExactMetricValue "false")
+(ErodeMask "false")
+(UseDirectionCosines "true")
+
+// ********** ImageSampler
+(ImageSampler "RandomCoordinate")
+(NumberOfSpatialSamples 5000)
+(NewSamplesEveryIteration "true")
+
+// ********** Interpolator and Resampler
+(BSplineInterpolationOrder 1)
+(FinalBSplineInterpolationOrder 3)
+(DefaultPixelValue 0)
+(ResultImageFormat "nii.gz")
