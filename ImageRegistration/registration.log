@@ -1,0 +1,358 @@
+INFO: Added step: PranavBatchProcessor
+INFO: Starting pipeline: ProstateADCRegistrationPipeline
+INFO: Executing step 1/1: PranavBatchProcessor
+ERROR: Step PranavBatchProcessor failed: [Errno 2] No such file or directory: '/Users/anish/file_data'
+ERROR: Pipeline ProstateADCRegistrationPipeline failed: [Errno 2] No such file or directory: '/Users/anish/file_data'
+INFO: Added step: PranavBatchProcessor
+INFO: Starting pipeline: ProstateADCRegistrationPipeline
+INFO: Executing step 1/1: PranavBatchProcessor
+INFO: Found 80 patient directories
+INFO: Processing patient: 10268
+INFO: Starting ADC-T2W registration for patient 10268
+INFO: Successfully registered ADC to T2W for patient 10268
+INFO: ✓ Successfully processed 10268
+INFO: Processing patient: 11188
+INFO: Starting ADC-T2W registration for patient 11188
+INFO: Successfully registered ADC to T2W for patient 11188
+INFO: ✓ Successfully processed 11188
+INFO: Processing patient: 10804
+INFO: Starting ADC-T2W registration for patient 10804
+INFO: Successfully registered ADC to T2W for patient 10804
+INFO: ✓ Successfully processed 10804
+INFO: Processing patient: 10294
+INFO: Starting ADC-T2W registration for patient 10294
+INFO: Successfully registered ADC to T2W for patient 10294
+INFO: ✓ Successfully processed 10294
+INFO: Processing patient: 10097
+INFO: Starting ADC-T2W registration for patient 10097
+INFO: Successfully registered ADC to T2W for patient 10097
+INFO: ✓ Successfully processed 10097
+INFO: Processing patient: 11384
+INFO: Starting ADC-T2W registration for patient 11384
+INFO: Successfully registered ADC to T2W for patient 11384
+INFO: ✓ Successfully processed 11384
+INFO: Processing patient: 10233
+INFO: Starting ADC-T2W registration for patient 10233
+INFO: Successfully registered ADC to T2W for patient 10233
+INFO: ✓ Successfully processed 10233
+INFO: Processing patient: 10668
+INFO: Starting ADC-T2W registration for patient 10668
+INFO: Successfully registered ADC to T2W for patient 10668
+INFO: ✓ Successfully processed 10668
+INFO: Processing patient: 11260
+INFO: Starting ADC-T2W registration for patient 11260
+INFO: Successfully registered ADC to T2W for patient 11260
+INFO: ✓ Successfully processed 11260
+INFO: Processing patient: 10383
+INFO: Starting ADC-T2W registration for patient 10383
+INFO: Successfully registered ADC to T2W for patient 10383
+INFO: ✓ Successfully processed 10383
+INFO: Processing patient: 11256
+INFO: Starting ADC-T2W registration for patient 11256
+INFO: Successfully registered ADC to T2W for patient 11256
+INFO: ✓ Successfully processed 11256
+INFO: Processing patient: 10915
+INFO: Starting ADC-T2W registration for patient 10915
+INFO: Successfully registered ADC to T2W for patient 10915
+INFO: ✓ Successfully processed 10915
+INFO: Processing patient: 10340
+INFO: Starting ADC-T2W registration for patient 10340
+INFO: Successfully registered ADC to T2W for patient 10340
+INFO: ✓ Successfully processed 10340
+INFO: Processing patient: 10589
+INFO: Starting ADC-T2W registration for patient 10589
+INFO: Successfully registered ADC to T2W for patient 10589
+INFO: ✓ Successfully processed 10589
+INFO: Processing patient: 10322
+INFO: Starting ADC-T2W registration for patient 10322
+INFO: Successfully registered ADC to T2W for patient 10322
+INFO: ✓ Successfully processed 10322
+INFO: Processing patient: 10117
+INFO: Starting ADC-T2W registration for patient 10117
+INFO: Successfully registered ADC to T2W for patient 10117
+INFO: ✓ Successfully processed 10117
+INFO: Processing patient: 11448
+INFO: Starting ADC-T2W registration for patient 11448
+INFO: Successfully registered ADC to T2W for patient 11448
+INFO: ✓ Successfully processed 11448
+INFO: Processing patient: 10157
+INFO: Starting ADC-T2W registration for patient 10157
+INFO: Successfully registered ADC to T2W for patient 10157
+INFO: ✓ Successfully processed 10157
+INFO: Processing patient: 10168
+INFO: Starting ADC-T2W registration for patient 10168
+INFO: Successfully registered ADC to T2W for patient 10168
+INFO: ✓ Successfully processed 10168
+INFO: Processing patient: 11229
+INFO: Starting ADC-T2W registration for patient 11229
+INFO: Successfully registered ADC to T2W for patient 11229
+INFO: ✓ Successfully processed 11229
+INFO: Processing patient: 10798
+INFO: Starting ADC-T2W registration for patient 10798
+INFO: Successfully registered ADC to T2W for patient 10798
+INFO: ✓ Successfully processed 10798
+INFO: Processing patient: 10568
+INFO: Starting ADC-T2W registration for patient 10568
+INFO: Successfully registered ADC to T2W for patient 10568
+INFO: ✓ Successfully processed 10568
+INFO: Processing patient: 10339
+INFO: Starting ADC-T2W registration for patient 10339
+INFO: Successfully registered ADC to T2W for patient 10339
+INFO: ✓ Successfully processed 10339
+INFO: Processing patient: 11280
+INFO: Starting ADC-T2W registration for patient 11280
+INFO: Successfully registered ADC to T2W for patient 11280
+INFO: ✓ Successfully processed 11280
+INFO: Processing patient: 10503
+INFO: Starting ADC-T2W registration for patient 10503
+INFO: Successfully registered ADC to T2W for patient 10503
+INFO: ✓ Successfully processed 10503
+INFO: Processing patient: 10390
+INFO: Starting ADC-T2W registration for patient 10390
+INFO: Successfully registered ADC to T2W for patient 10390
+INFO: ✓ Successfully processed 10390
+INFO: Processing patient: 10216
+INFO: Starting ADC-T2W registration for patient 10216
+INFO: Successfully registered ADC to T2W for patient 10216
+INFO: ✓ Successfully processed 10216
+INFO: Processing patient: 10211
+INFO: Starting ADC-T2W registration for patient 10211
+INFO: Successfully registered ADC to T2W for patient 10211
+INFO: ✓ Successfully processed 10211
+INFO: Processing patient: 10274
+INFO: Starting ADC-T2W registration for patient 10274
+INFO: Successfully registered ADC to T2W for patient 10274
+INFO: ✓ Successfully processed 10274
+INFO: Processing patient: 10048
+INFO: Starting ADC-T2W registration for patient 10048
+INFO: Successfully registered ADC to T2W for patient 10048
+INFO: ✓ Successfully processed 10048
+INFO: Processing patient: 10484
+INFO: Starting ADC-T2W registration for patient 10484
+INFO: Successfully registered ADC to T2W for patient 10484
+INFO: ✓ Successfully processed 10484
+INFO: Processing patient: 11300
+INFO: Starting ADC-T2W registration for patient 11300
+INFO: Successfully registered ADC to T2W for patient 11300
+INFO: ✓ Successfully processed 11300
+INFO: Processing patient: 10085
+INFO: Starting ADC-T2W registration for patient 10085
+INFO: Successfully registered ADC to T2W for patient 10085
+INFO: ✓ Successfully processed 10085
+INFO: Processing patient: 10872
+INFO: Starting ADC-T2W registration for patient 10872
+INFO: Successfully registered ADC to T2W for patient 10872
+INFO: ✓ Successfully processed 10872
+INFO: Processing patient: 11168
+INFO: Starting ADC-T2W registration for patient 11168
+INFO: Successfully registered ADC to T2W for patient 11168
+INFO: ✓ Successfully processed 11168
+INFO: Processing patient: 10888
+INFO: Starting ADC-T2W registration for patient 10888
+INFO: Successfully registered ADC to T2W for patient 10888
+INFO: ✓ Successfully processed 10888
+INFO: Processing patient: 10040
+INFO: Starting ADC-T2W registration for patient 10040
+INFO: Successfully registered ADC to T2W for patient 10040
+INFO: ✓ Successfully processed 10040
+INFO: Processing patient: 11122
+INFO: Starting ADC-T2W registration for patient 11122
+INFO: Successfully registered ADC to T2W for patient 11122
+INFO: ✓ Successfully processed 11122
+INFO: Processing patient: 10807
+INFO: Starting ADC-T2W registration for patient 10807
+INFO: Successfully registered ADC to T2W for patient 10807
+INFO: ✓ Successfully processed 10807
+INFO: Processing patient: 10699
+INFO: Starting ADC-T2W registration for patient 10699
+INFO: Successfully registered ADC to T2W for patient 10699
+INFO: ✓ Successfully processed 10699
+INFO: Processing patient: 10059
+INFO: Starting ADC-T2W registration for patient 10059
+ERROR: Registration failed for 10059: None
+ERROR: ✗ Failed to process 10059
+INFO: Processing patient: 10434
+INFO: Starting ADC-T2W registration for patient 10434
+INFO: Successfully registered ADC to T2W for patient 10434
+INFO: ✓ Successfully processed 10434
+INFO: Processing patient: 10262
+INFO: Starting ADC-T2W registration for patient 10262
+INFO: Successfully registered ADC to T2W for patient 10262
+INFO: ✓ Successfully processed 10262
+INFO: Processing patient: 10665
+INFO: Starting ADC-T2W registration for patient 10665
+INFO: Successfully registered ADC to T2W for patient 10665
+INFO: ✓ Successfully processed 10665
+INFO: Processing patient: 10005
+INFO: Starting ADC-T2W registration for patient 10005
+INFO: Successfully registered ADC to T2W for patient 10005
+INFO: ✓ Successfully processed 10005
+INFO: Processing patient: 10839
+INFO: Starting ADC-T2W registration for patient 10839
+INFO: Successfully registered ADC to T2W for patient 10839
+INFO: ✓ Successfully processed 10839
+INFO: Processing patient: 11177
+INFO: Starting ADC-T2W registration for patient 11177
+INFO: Successfully registered ADC to T2W for patient 11177
+INFO: ✓ Successfully processed 11177
+INFO: Processing patient: 10607
+INFO: Starting ADC-T2W registration for patient 10607
+INFO: Successfully registered ADC to T2W for patient 10607
+INFO: ✓ Successfully processed 10607
+INFO: Processing patient: 10743
+INFO: Starting ADC-T2W registration for patient 10743
+INFO: Successfully registered ADC to T2W for patient 10743
+INFO: ✓ Successfully processed 10743
+INFO: Processing patient: 10329
+INFO: Starting ADC-T2W registration for patient 10329
+INFO: Successfully registered ADC to T2W for patient 10329
+INFO: ✓ Successfully processed 10329
+INFO: Processing patient: 11051
+INFO: Starting ADC-T2W registration for patient 11051
+INFO: Successfully registered ADC to T2W for patient 11051
+INFO: ✓ Successfully processed 11051
+INFO: Processing patient: 10728
+INFO: Starting ADC-T2W registration for patient 10728
+INFO: Successfully registered ADC to T2W for patient 10728
+INFO: ✓ Successfully processed 10728
+INFO: Processing patient: 10380
+INFO: Starting ADC-T2W registration for patient 10380
+INFO: Successfully registered ADC to T2W for patient 10380
+INFO: ✓ Successfully processed 10380
+INFO: Processing patient: 10522
+INFO: Starting ADC-T2W registration for patient 10522
+INFO: Successfully registered ADC to T2W for patient 10522
+INFO: ✓ Successfully processed 10522
+INFO: Processing patient: 11231
+INFO: Starting ADC-T2W registration for patient 11231
+INFO: Successfully registered ADC to T2W for patient 11231
+INFO: ✓ Successfully processed 11231
+INFO: Processing patient: 11236
+INFO: Starting ADC-T2W registration for patient 11236
+INFO: Successfully registered ADC to T2W for patient 11236
+INFO: ✓ Successfully processed 11236
+INFO: Processing patient: 10910
+INFO: Starting ADC-T2W registration for patient 10910
+INFO: Successfully registered ADC to T2W for patient 10910
+INFO: ✓ Successfully processed 10910
+INFO: Processing patient: 11253
+INFO: Starting ADC-T2W registration for patient 11253
+INFO: Successfully registered ADC to T2W for patient 11253
+INFO: ✓ Successfully processed 11253
+INFO: Processing patient: 10372
+INFO: Starting ADC-T2W registration for patient 10372
+INFO: Successfully registered ADC to T2W for patient 10372
+INFO: ✓ Successfully processed 10372
+INFO: Processing patient: 11247
+INFO: Starting ADC-T2W registration for patient 11247
+INFO: Successfully registered ADC to T2W for patient 11247
+INFO: ✓ Successfully processed 11247
+INFO: Processing patient: 11278
+INFO: Starting ADC-T2W registration for patient 11278
+INFO: Successfully registered ADC to T2W for patient 11278
+INFO: ✓ Successfully processed 11278
+INFO: Processing patient: 11086
+INFO: Starting ADC-T2W registration for patient 11086
+INFO: Successfully registered ADC to T2W for patient 11086
+INFO: ✓ Successfully processed 11086
+INFO: Processing patient: 10968
+INFO: Starting ADC-T2W registration for patient 10968
+INFO: Successfully registered ADC to T2W for patient 10968
+INFO: ✓ Successfully processed 10968
+INFO: Processing patient: 10539
+INFO: Starting ADC-T2W registration for patient 10539
+INFO: Successfully registered ADC to T2W for patient 10539
+INFO: ✓ Successfully processed 10539
+INFO: Processing patient: 10107
+INFO: Starting ADC-T2W registration for patient 10107
+INFO: Successfully registered ADC to T2W for patient 10107
+INFO: ✓ Successfully processed 10107
+INFO: Processing patient: 11284
+INFO: Starting ADC-T2W registration for patient 11284
+INFO: Successfully registered ADC to T2W for patient 11284
+INFO: ✓ Successfully processed 11284
+INFO: Processing patient: 10164
+INFO: Starting ADC-T2W registration for patient 10164
+INFO: Successfully registered ADC to T2W for patient 10164
+INFO: ✓ Successfully processed 10164
+INFO: Processing patient: 11444
+INFO: Starting ADC-T2W registration for patient 11444
+INFO: Successfully registered ADC to T2W for patient 11444
+INFO: ✓ Successfully processed 11444
+INFO: Processing patient: 10768
+INFO: Starting ADC-T2W registration for patient 10768
+INFO: Successfully registered ADC to T2W for patient 10768
+INFO: ✓ Successfully processed 10768
+INFO: Processing patient: 11155
+INFO: Starting ADC-T2W registration for patient 11155
+INFO: Successfully registered ADC to T2W for patient 11155
+INFO: ✓ Successfully processed 11155
+INFO: Processing patient: 10241
+INFO: Starting ADC-T2W registration for patient 10241
+INFO: Successfully registered ADC to T2W for patient 10241
+INFO: ✓ Successfully processed 10241
+INFO: Processing patient: 10074
+INFO: Starting ADC-T2W registration for patient 10074
+INFO: Successfully registered ADC to T2W for patient 10074
+INFO: ✓ Successfully processed 10074
+INFO: Processing patient: 11137
+INFO: Starting ADC-T2W registration for patient 11137
+INFO: Successfully registered ADC to T2W for patient 11137
+INFO: ✓ Successfully processed 11137
+INFO: Processing patient: 10486
+INFO: Starting ADC-T2W registration for patient 10486
+INFO: Successfully registered ADC to T2W for patient 10486
+INFO: ✓ Successfully processed 10486
+INFO: Processing patient: 11361
+INFO: Starting ADC-T2W registration for patient 11361
+INFO: Successfully registered ADC to T2W for patient 11361
+INFO: ✓ Successfully processed 11361
+INFO: Processing patient: 11165
+INFO: Starting ADC-T2W registration for patient 11165
+INFO: Successfully registered ADC to T2W for patient 11165
+INFO: ✓ Successfully processed 11165
+INFO: Processing patient: 10043
+INFO: Starting ADC-T2W registration for patient 10043
+INFO: Successfully registered ADC to T2W for patient 10043
+INFO: ✓ Successfully processed 10043
+INFO: Processing patient: 10418
+INFO: Starting ADC-T2W registration for patient 10418
+INFO: Successfully registered ADC to T2W for patient 10418
+INFO: ✓ Successfully processed 10418
+INFO: Processing patient: 10825
+INFO: Starting ADC-T2W registration for patient 10825
+INFO: Successfully registered ADC to T2W for patient 10825
+INFO: ✓ Successfully processed 10825
+INFO: Processing patient: 10442
+INFO: Starting ADC-T2W registration for patient 10442
+INFO: Successfully registered ADC to T2W for patient 10442
+INFO: ✓ Successfully processed 10442
+INFO: Batch processing complete: 98.8% success rate
+INFO: Pipeline ProstateADCRegistrationPipeline completed successfully
+INFO: Summary report saved: /Users/anish/file_data/registration_results/registration_summary_report.json
+INFO: Added step: PranavBatchProcessor
+INFO: Starting pipeline: ProstateADCRegistrationPipeline
+INFO: Executing step 1/1: PranavBatchProcessor
+INFO: Found 80 patient directories
+INFO: Processing patient: 10268
+INFO: Starting ADC-T2W registration for patient 10268
+INFO: Successfully registered ADC to T2W for patient 10268
+INFO: ✓ Successfully processed 10268
+INFO: Processing patient: 11188
+INFO: Starting ADC-T2W registration for patient 11188
+INFO: Successfully registered ADC to T2W for patient 11188
+INFO: ✓ Successfully processed 11188
+INFO: Processing patient: 10804
+INFO: Starting ADC-T2W registration for patient 10804
+INFO: Successfully registered ADC to T2W for patient 10804
+INFO: ✓ Successfully processed 10804
+INFO: Processing patient: 10294
+INFO: Starting ADC-T2W registration for patient 10294
+INFO: Successfully registered ADC to T2W for patient 10294
+INFO: ✓ Successfully processed 10294
+INFO: Processing patient: 10097
+INFO: Starting ADC-T2W registration for patient 10097
+INFO: Successfully registered ADC to T2W for patient 10097
+INFO: ✓ Successfully processed 10097
+INFO: Processing patient: 11384
+INFO: Starting ADC-T2W registration for patient 11384
